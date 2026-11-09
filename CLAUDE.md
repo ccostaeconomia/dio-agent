@@ -1,4 +1,4 @@
-# DIO Agent no Claude Code
+# Meu Mentor no Claude Code
 
 Este projeto segue o padrão aberto **AGENTS.md** como fonte única de verdade.
 

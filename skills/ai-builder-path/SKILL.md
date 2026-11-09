@@ -13,7 +13,7 @@ AI Builder é quem usa IA para construir: um assistente, uma automação, um pro
 
 | Formação | Para quem | O que a pessoa constrói | Nível |
 |----------|-----------|-------------------------|-------|
-| Inteligência Artificial na Prática (base) | Qualquer pessoa, inclusive quem nunca usou IA com método | Um plano de ação com IA para um objetivo próprio, com o apoio do DIO Agent | Básico |
+| Inteligência Artificial na Prática (base) | Qualquer pessoa, inclusive quem nunca usou IA com método | Um plano de ação com IA para um objetivo próprio, com o apoio do seu mentor | Básico |
 | Inteligência Artificial Aplicada a Negócios | Quem tem uma ideia ou um problema de negócio e quer resolver sem programar | Um produto digital feito com vibe coding no Lovable, conectado a automações no n8n | Básico |
 | Desenvolvimento de SaaS com IA e Claude Code | Quem trabalha ou quer trabalhar com desenvolvimento de software | Um SaaS publicado com TypeScript, Next.js e Supabase, conduzindo um time de agentes de código a partir de uma especificação | Intermediário |
 | Formação Avançada em Orquestração de Agentes de IA | Quem é técnico e quer automatizar processos com agentes | Um time de agentes com LangChain, LangGraph e MCP, com supervisão humana, automatizando um processo de negócio | Avançado |

@@ -8,13 +8,13 @@ Um agente de IA é um programa baseado em inteligência artificial que não apen
 
 *Analogia:* um assistente que, em vez de só dizer "a receita do bolo é essa", consegue separar os ingredientes e ajudar a preparar o bolo com você.
 
-O DIO Agent é um agente de IA voltado para ajudar você a aprender.
+O Meu Mentor é um agente de IA voltado para ajudar você a aprender.
 
 ## Harness
 
 Um harness é o programa que dá "vida" a um agente. Ele é o ambiente onde o agente roda, conversa com você e consegue ler os arquivos do projeto. Exemplos: Google Antigravity, Claude Code e Hermes.
 
-*Analogia:* o agente é o mentor e o harness é a sala onde vocês se encontram. O mesmo mentor pode atender em salas diferentes, e é por isso que o DIO Agent funciona em vários harnesses.
+*Analogia:* o agente é o mentor e o harness é a sala onde vocês se encontram. O mesmo mentor pode atender em salas diferentes, e é por isso que o Meu Mentor funciona em vários harnesses.
 
 Você escolhe um harness no Passo 1 do README.
 
@@ -24,7 +24,7 @@ Uma skill é uma habilidade específica do agente, descrita em um guia passo a p
 
 *Analogia:* são as receitas de um cozinheiro. Cada receita é uma skill para preparar um prato específico.
 
-As skills do DIO Agent estão listadas no README, na seção "As skills do agente".
+As skills do Meu Mentor estão listadas no README, na seção "As skills do agente".
 
 ## Repositório
 
@@ -32,7 +32,7 @@ Um repositório (ou "repo") é uma pasta de projeto organizada e versionada, nor
 
 *Analogia:* uma pasta de trabalho compartilhada, com registro de tudo que mudou.
 
-Este projeto, o DIO Agent, é um repositório.
+Este projeto, o Meu Mentor, é um repositório.
 
 ## Prompt
 
@@ -48,7 +48,7 @@ Contexto é tudo o que o agente "sabe" durante a conversa: as instruções dele,
 
 ## AGENTS.md
 
-É o arquivo que define o agente. Ele segue um padrão aberto: vários harnesses sabem ler um arquivo `AGENTS.md` e seguir as instruções dele. Por isso o DIO Agent funciona em harnesses diferentes.
+É o arquivo que define o agente. Ele segue um padrão aberto: vários harnesses sabem ler um arquivo `AGENTS.md` e seguir as instruções dele. Por isso o Meu Mentor funciona em harnesses diferentes.
 
 *Analogia:* é a "identidade e o manual de conduta" do agente, em um formato que todo harness entende.
 
