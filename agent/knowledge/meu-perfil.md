@@ -8,51 +8,52 @@ Este é o arquivo que torna o **Meu Mentor** pessoal. Ele guarda seus objetivos,
 
 ### Objetivo principal
 
-`[ex: conseguir meu primeiro emprego em tecnologia, mudar de área, evoluir na carreira atual]`
+Evoluir na carreira atual (economia/finanças) aplicando IA e automação no trabalho.
 
 ### Objetivos de curto prazo (próximas 4 a 8 semanas)
 
-- `[ex: concluir o Bootcamp X]`
-- `[ex: entregar o Desafio de Projeto Y]`
+- Concluir o Bootcamp **Dados com Python e IA** da DIO.
+- Aplicar pelo menos uma técnica de IA em uma tarefa real do trabalho.
 
 ### Objetivos de médio e longo prazo (3 meses a 2 anos)
 
-- `[ex: me tornar analista de dados, construir um portfólio com 3 projetos]`
+- Ganhar produtividade e destaque na função atual usando IA e dados.
+- Construir um conjunto de automações e análises que apoiem decisões na área financeira.
 
 ## Rotina e disponibilidade
 
-- **Dias de estudo:** `[ex: segunda a sexta]`
-- **Tempo por dia:** `[ex: 1 hora, das 20h às 21h]`
-- **Melhor horário:** `[ex: manhã, noite]`
-- **Dias sem estudo:** `[ex: domingo]`
-- **Interrupções comuns:** `[ex: trabalho, faculdade, família]`
+- **Dias de estudo:** segunda a sexta
+- **Tempo por dia:** cerca de 2 horas
+- **Melhor horário:** manhã
+- **Dias sem estudo:** `[a definir]`
+- **Interrupções comuns:** `[a definir]`
 
 ## Nível atual por área
 
 | Área | Nível | O que já sei | O que quero aprender |
 |------|-------|--------------|----------------------|
-| Tecnologia e IA | `[iniciante / intermediário / avançado]` | `[...]` | `[...]` |
-| Economia e dados | `[iniciante / intermediário / avançado]` | `[...]` | `[...]` |
-| Faculdade e concursos | `[...]` | `[...]` | `[...]` |
+| Tecnologia e IA | Intermediário | Uso de IA para dúvidas, análises e automações simples | Criar agentes, automações e fluxos com mais autonomia |
+| Economia e dados | Profissional | Atua na área de economia/finanças | Python, análise de dados e IA aplicada ao trabalho |
+| Faculdade e concursos | Não informado | `[a definir]` | `[a definir]` |
 
 ## O que estou estudando agora
 
-- **Na DIO:** `[Bootcamp, Formação, Curso ou Desafio em andamento]`
-- **Fora da DIO:** `[faculdade, curso, certificação, livro]`
-- **Projetos práticos:** `[o que estou construindo]`
+- **Na DIO:** Bootcamp **Dados com Python e IA**.
+- **Fora da DIO:** `[a definir]`
+- **Projetos práticos:** `[a definir]`
 
 ## Preferências de aprendizado
 
-- **Estilo:** `[ex: exemplos práticos, analogias, passo a passo]`
-- **Ritmo:** `[ex: prefiro ir devagar e consolidar]`
-- **O que me desmotiva:** `[ex: muita teoria junta, jargão sem explicação]`
-- **O que me ajuda a manter o foco:** `[ex: metas pequenas, pausas, checkpoints]`
+- **Estilo:** `[a definir — o mentor pode perguntar durante as sessões]`
+- **Ritmo:** `[a definir]`
+- **O que me desmotiva:** `[a definir]`
+- **O que me ajuda a manter o foco:** `[a definir]`
 
 ## Metas da semana
 
-- [ ] `[meta 1]`
-- [ ] `[meta 2]`
-- [ ] `[meta 3]`
+- [ ] Avançar no Bootcamp **Dados com Python e IA** (definir o módulo ou desafio da semana)
+- [ ] Aplicar uma técnica de IA em uma tarefa real do trabalho
+- [ ] Fazer pelo menos uma sessão de estudo guiada e registrar o progresso
 
 ## Registro de progresso
 
@@ -60,8 +61,11 @@ O agente adiciona uma linha aqui ao final de cada sessão de estudo ou revisão 
 
 | Data | O que estudei | O que aprendi | Próximo passo |
 |------|---------------|---------------|---------------|
-| `[AAAA-MM-DD]` | `[...]` | `[...]` | `[...]` |
+| 2026-11-09 | Configurei o Meu Mentor e defini o objetivo | Perfil inicial criado | Concluir o próximo módulo do Bootcamp Dados com Python e IA |
 
 ## Observações
 
-`[qualquer contexto que ajude o mentor a te conhecer melhor: histórico, dificuldades, conquistas, mudanças de plano]`
+- Atua em economia/finanças e quer usar IA para evoluir na carreira atual.
+- Estuda cerca de 2 horas por dia, de segunda a sexta.
+- Nível intermediário em IA e automação.
+- Prefere começar pelo Bootcamp **Dados com Python e IA** da DIO.
